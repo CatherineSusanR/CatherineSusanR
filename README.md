@@ -1,6 +1,6 @@
-I'm Catherine Susan
+## Hello ! I'm Catherine Susan
 
-A cybersecurity enthusiast
+# A cybersecurity enthusiast
 
 -🔭 Currently working on cybersecurity projects
 
