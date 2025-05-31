@@ -93,10 +93,10 @@ I'm  a Computer Science Engineering student specializing in **Cybersecurity**. I
 
 ###
 
-<p align="left">?</p>
+<p align="left"></p>
 
 ###
-# 📊 GitHub Stats:Add commentMore actions
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CatherineSusanR&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CatherineSusanR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CatherineSusanR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
