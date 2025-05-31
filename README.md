@@ -1,21 +1,21 @@
-<h2 align="center">Hey y'all! I'm Catherine Susan Rajesh, <br>a Cybersecurity Enthusiast 🚀</h2>
+<h2 align="center">Hey y'all! I'm Catherine Susan Rajesh, <br>a Cybersecurity Enthusiast </h2>
 
-## 👩‍💻 About Me
+##  About Me
 
-I'm Catherine Susan, a Computer Science Engineering student specializing in **Cybersecurity**. I enjoy building real-world tech solutions and diving deep into system security, backend logic, and Android development.
+I'm  a Computer Science Engineering student specializing in **Cybersecurity**. I enjoy building real-world tech solutions and diving deep into system security, backend logic, and Android development.
 
-- 🎯 Currently working on cybersecurity and ethical hacking projects  
-- 🎓 Studying CSE with a focus on network security and system architecture  
-- 🤝 Open to collaborating on **security-focused** or **tech-driven** projects  
-- 🧠 Actively learning **penetration testing**, **threat analysis**, and **Android app security**
+-  Currently working on cybersecurity and ethical hacking projects  
+-  Studying CSE-CY with a focus on network security and system architecture  
+-  Open to collaborating on **security-focused** or **tech-driven** projects  
+-  Actively learning **penetration testing**, **threat analysis**, and **Android app security**
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 - **Languages:** Java, Python, C  
 - **Database:** MySQL, SQLite  
 - **Tools:** VS Code, Android Studio, Git & GitHub  
-- **Domains:** Cybersecurity, Android App Development, Operating Systems, Computer Architecture
+- **Domains:** Cybersecurity, Android App Development, Web Development
 
-### 💡 Interests
+###  Interests
 - Ethical hacking & system security  
 - Mobile development with secure architecture  
 - Full-stack app development  
